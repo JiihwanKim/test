@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 New test123
-=======
-New test
 
 In v2
->>>>>>> v2
